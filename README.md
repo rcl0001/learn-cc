@@ -39,6 +39,7 @@
 - **Issues**：用作待办清单和问题追踪
 - **Projects**：可视化管理学习进度
 - **Pages**：[可选]建立公开数字花园
+- **Repository**: [https://github.com/rcl0001/learn-cc](https://github.com/rcl0001/learn-cc)
 
 ## 开始记录
 

@@ -11,3 +11,4 @@
 ### 新开始
 - 开始记录insight文档
 - 计划将笔记与Obsidian集成
+- 建立GitHub仓库作为知识管理系统：https://github.com/rcl0001/learn-cc
